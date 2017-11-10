@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   DefaultUrl="/Content/Topic.htm"
-  BrowseSequence="/Project/Advanced/Browse Sequences/BrowseSequence.flbrs">
+  BrowseSequence="/Project/Advanced/Browse Sequences/BrowseSequence.flbrs"
+  Skin="/Project/Skins/HTML5 - Tripane.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
